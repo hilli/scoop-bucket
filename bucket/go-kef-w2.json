@@ -23,6 +23,6 @@
         "Write-Host 'Running postinstall command'",
         "if(!(Test-Path $PROFILE.CurrentUserCurrentHost -PathType Leaf)) { New-Item -Path $PROFILE.CurrentUserCurrentHost -ItemType file -Force }",
         "$scoopPrefix = $(scoop prefix go-kef-w2)",
-        "Add-Content -Path $PROFILE.CurrentUserCurrentHost -Value . \"$scoopPrefix\\completions\\kefw2.ps1\""
+        "Add-Content -Path $PROFILE.CurrentUserCurrentHost -Value \". $scoopPrefix\\completions\\kefw2.ps1\""
     ]
 }
