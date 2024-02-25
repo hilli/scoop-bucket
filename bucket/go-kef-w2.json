@@ -6,14 +6,14 @@
             "bin": [
                 "kefw2.exe"
             ],
-            "hash": "02f9d1c4a6fcecf8470ecbb44375722f9b757c7749785b1f57029d13c1104d72"
+            "hash": "d472f4c274c3d8a43e6369606a3701e5121709d7d236443fde1dc1d9bc916576"
         },
         "arm64": {
             "url": "https://github.com/hilli/go-kef-w2/releases/download/v0.0.2/go-kef-w2_Windows_arm64.zip",
             "bin": [
                 "kefw2.exe"
             ],
-            "hash": "bc161ebb311ee713bc735d3858895e950e7794831e559c1add2991573206feaa"
+            "hash": "10f9b905b4f6ca1442273e45ff5b5ca2e45d9beea355fe25f014e5eebcdaf1a0"
         }
     },
     "homepage": "https://github.com/hilli/go-kef-w2",
