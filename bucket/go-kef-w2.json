@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hilli/go-kef-w2/releases/download/v0.3.1/go-kef-w2_Windows_x86_64.zip",
+            "url": "https://github.com/hilli/go-kef-w2/releases/download/v0.4.0/go-kef-w2_Windows_x86_64.zip",
             "bin": [
                 "kefw2.exe"
             ],
-            "hash": "bdbee011b9563116d2f5c235bdea1c0377b4ac621a2797b2f5be9df01d9fb776"
+            "hash": "44f5a4c1a5b7faa9d96f06704606b2897cabcce1c3666954bbc04851e47a0d95"
         },
         "arm64": {
-            "url": "https://github.com/hilli/go-kef-w2/releases/download/v0.3.1/go-kef-w2_Windows_arm64.zip",
+            "url": "https://github.com/hilli/go-kef-w2/releases/download/v0.4.0/go-kef-w2_Windows_arm64.zip",
             "bin": [
                 "kefw2.exe"
             ],
-            "hash": "599ceca8beb6d06f3a0c44df0afdacbf19429e0ff04df9a5f506aff0b1bfdc08"
+            "hash": "0502d54d72efbbd1570a07349cc80f37e5dbfc874c4ca45813da2981981cc9ed"
         }
     },
     "homepage": "https://github.com/hilli/go-kef-w2",
